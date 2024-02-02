@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2aec5e83-b348-4dc3-aade-b648fd6639f1
+      url: 'https://qtest-book.netlify.app'
