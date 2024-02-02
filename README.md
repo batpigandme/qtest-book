@@ -1,6 +1,6 @@
 # qtest-book
 
-Test book to troubleshoot issue I'm having with nav-page-next button published with Quarto GHA.
+Test book to troubleshoot issue I'm having with nav-page-next button of Quarto book published with Quarto GHA.
 
 Live site: <https://qtest-book.netlify.app/>
 
