@@ -20,4 +20,4 @@
 .Renviron
 
 # Ignore output for rendering through GH
-# /_book/
+/_book/
