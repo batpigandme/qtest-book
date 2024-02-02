@@ -13,4 +13,8 @@ It only happens for the link to the *next* section, the link for the *previous* 
 
 The screenshot below shows the live [preface page for this book](https://qtest-book.netlify.app/) with the problem.
 
-![Screenshot of test book preface page with broken pagination link.](images/qtest-book-min.png){fig-alt="Screenshot of test book preface page with broken pagination link—the text for the pagination link includes html class and href and is not a live link."}
+![Screenshot of test book preface page with broken pagination link.](images/qtest-book-min.png)
+
+## More info
+
+
