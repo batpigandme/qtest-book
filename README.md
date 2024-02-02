@@ -1,5 +1,7 @@
 # qtest-book
 
+**cderv beat me to it!** See https://github.com/quarto-dev/quarto-cli/issues/8555
+
 Test book to troubleshoot issue I'm having with nav-page-next button of Quarto book published with Quarto GHA.
 
 Live site: <https://qtest-book.netlify.app/>
